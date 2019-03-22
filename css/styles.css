@@ -1,6 +1,7 @@
 #title {
-  /*background-image: */
   text-align: center;
+  background-image: url("img/background.jpeg");
+  background-color: #b144ff;
   color: white;
   text-shadow: 2px 2px 3px black, 0px 0px 1px black, 0px 0px 0px black;
 }
@@ -8,6 +9,7 @@
 .thumbnail {
   margin: 0px;
   padding: 0px;
+  border: solid green;
 }
 
 span {
@@ -16,4 +18,9 @@ span {
 
 #spacing {
   text-align: center;
+}
+
+#float {
+  float: left;
+  padding-right: 10px;
 }
