@@ -1,0 +1,19 @@
+#title {
+  /*background-image: */
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 3px black, 0px 0px 1px black, 0px 0px 0px black;
+}
+
+.thumbnail {
+  margin: 0px;
+  padding: 0px;
+}
+
+span {
+  font-style: italic;
+}
+
+#spacing {
+  text-align: center;
+}
