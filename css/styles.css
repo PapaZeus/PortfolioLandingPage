@@ -1,7 +1,6 @@
 #title {
   text-align: center;
-  background-image: url("img/background.jpeg");
-  background-color: #b144ff;
+  background-image: url("../img/background.jpeg");
   color: white;
   text-shadow: 2px 2px 3px black, 0px 0px 1px black, 0px 0px 0px black;
 }
