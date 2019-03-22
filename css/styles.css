@@ -4,6 +4,9 @@
   color: white;
   text-shadow: 2px 2px 3px black, 0px 0px 1px black, 0px 0px 0px black;
 }
+.thumbnail {
+  margin-left: 10px;
+}
 
 .thumbnail {
   margin: 0px;
