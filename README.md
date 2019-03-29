@@ -10,9 +10,9 @@
 
 ## **Setup**
 
-##### Clone this repository.
+##### Clone this repository at https://github.com/PapaZeus/PortfolioLandingPage
 
-##### Open master branch to look at code or gh-page branch to edit code.
+##### Open master branch to look at code or test branch to edit code.
 
 ## **Technologies Used**
 
@@ -28,4 +28,4 @@
 
 ##### Copyright (c) 2019 Brady Klockenga
 
-##### This software is licensed under the MIT license. 
+##### This software is licensed under the MIT license.
