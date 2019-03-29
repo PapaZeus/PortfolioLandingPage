@@ -10,8 +10,7 @@
 
 ## **Setup**
 
-##### Clone this repository at https://github.com/PapaZeus/PortfolioLandingPage
-
+##### Clone this repository at https://github.com/PapaZeus/PortfolioLandingPage.git
 ##### Open master branch to look at code or test branch to edit code.
 
 ## **Technologies Used**
